@@ -12,8 +12,8 @@ imageio==2.1.2
 moviepy==0.2.3.2
 
 
-ÆäÖĞmoviepyÎÒÊÇÔÚcmdÃüÁîÏÂÔØ°²×°£¬ µÚÒ»²½ÊÇÏÈÔÚ»·¾³±äÁ¿-ÏµÍ³±äÁ¿-pathÖĞÌí¼ÓC:\Users\Administrator\Anaconda3;C:\Users\Administrator\Anaconda3\Scripts;C:\Users\Administrator\Anaconda3\Library\bin
-È»ºóÔÚcmdÖĞÊäÈëpip install moviepy.. ºóÃæ·¢ÏÖÍ¨¹ı×ó±ßÄÇ¸öÃüÁî°Ñmoviepy°²×°ÔÚÁËC:\Users\Administrator\Anaconda3\Lib\site-packages\moviepy£¬ÓĞÁ½¸öÎÄ¼ş¼Ğ£¬Ò»ÊÇmoviepy-0.2.3.5.dist-info£¬¶şÊÇmoviepy
-È»ºóÎÒ¾Í°ÑÕâÁ½¸öÎÄ¼ş¸´ÖÆÕ³ÌùÔÚÁË×Ô¼º¶¨ÖÆµÄÔËĞĞ»·¾³PYTHON_MLÄÚ£¬¼´ÊÇC:\Users\Administrator\Anaconda3\envs\PYTHON_ML\Lib\site-packages\    ÔİÊ±ÄÜÓÃ£¬ºóĞøÓĞÎÊÌâÔÙ¿´
+å…¶ä¸­moviepyæˆ‘æ˜¯åœ¨cmdå‘½ä»¤ä¸‹è½½å®‰è£…ï¼Œ ç¬¬ä¸€æ­¥æ˜¯å…ˆåœ¨ç¯å¢ƒå˜é‡-ç³»ç»Ÿå˜é‡-pathä¸­æ·»åŠ C:\Users\Administrator\Anaconda3;C:\Users\Administrator\Anaconda3\Scripts;C:\Users\Administrator\Anaconda3\Library\bin
+ç„¶ååœ¨cmdä¸­è¾“å…¥pip install moviepy.. åé¢å‘ç°é€šè¿‡å·¦è¾¹é‚£ä¸ªå‘½ä»¤æŠŠmoviepyå®‰è£…åœ¨äº†C:\Users\Administrator\Anaconda3\Lib\site-packages\moviepyï¼Œæœ‰ä¸¤ä¸ªæ–‡ä»¶å¤¹ï¼Œä¸€æ˜¯moviepy-0.2.3.5.dist-infoï¼ŒäºŒæ˜¯moviepy
+ç„¶åæˆ‘å°±æŠŠè¿™ä¸¤ä¸ªæ–‡ä»¶å¤åˆ¶ç²˜è´´åœ¨äº†è‡ªå·±å®šåˆ¶çš„è¿è¡Œç¯å¢ƒPYTHON_ML(å³æ˜¯anacondaçš„æ–°ç¯å¢ƒåï¼‰å†…ï¼Œå³æ˜¯C:\Users\Administrator\Anaconda3\envs\PYTHON_ML\Lib\site-packages\    æš‚æ—¶èƒ½ç”¨ï¼Œåç»­æœ‰é—®é¢˜å†çœ‹
 
-ÆäËûµÄÒÀ¿¿»·¾³¶¼¿ÉÒÔÔÚanacondaÖĞÕÒµ½.
+å…¶ä»–çš„ä¾é ç¯å¢ƒéƒ½å¯ä»¥åœ¨anacondaä¸­æ‰¾åˆ°.
