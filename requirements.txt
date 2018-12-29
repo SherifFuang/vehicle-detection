@@ -10,3 +10,10 @@ seaborn==0.8.1
 pandas==0.21.0
 imageio==2.1.2
 moviepy==0.2.3.2
+
+
+其中moviepy我是在cmd命令下载安装， 第一步是先在环境变量-系统变量-path中添加C:\Users\Administrator\Anaconda3;C:\Users\Administrator\Anaconda3\Scripts;C:\Users\Administrator\Anaconda3\Library\bin
+然后在cmd中输入pip install moviepy.. 后面发现通过左边那个命令把moviepy安装在了C:\Users\Administrator\Anaconda3\Lib\site-packages\moviepy，有两个文件夹，一是moviepy-0.2.3.5.dist-info，二是moviepy
+然后我就把这两个文件复制粘贴在了自己定制的运行环境PYTHON_ML内，即是C:\Users\Administrator\Anaconda3\envs\PYTHON_ML\Lib\site-packages\    暂时能用，后续有问题再看
+
+其他的依靠环境都可以在anaconda中找到.
